@@ -1,0 +1,15 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/api/backend/[...path]/route": "/api/backend/[...path]",
+  "/customer/page": "/customer",
+  "/dashboard/page": "/dashboard",
+  "/kasir/page": "/kasir",
+  "/laporan/page": "/laporan",
+  "/login/page": "/login",
+  "/menu/page": "/menu",
+  "/order-online/page": "/order-online",
+  "/page": "/",
+  "/pengaturan/page": "/pengaturan",
+  "/pengeluaran/page": "/pengeluaran",
+  "/transaksi/page": "/transaksi"
+}

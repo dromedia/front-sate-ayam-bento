@@ -1,0 +1,15 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/backend/[...path]/route": "app/api/backend/[...path]/route.js",
+  "/customer/page": "app/customer/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/kasir/page": "app/kasir/page.js",
+  "/laporan/page": "app/laporan/page.js",
+  "/login/page": "app/login/page.js",
+  "/menu/page": "app/menu/page.js",
+  "/order-online/page": "app/order-online/page.js",
+  "/page": "app/page.js",
+  "/pengaturan/page": "app/pengaturan/page.js",
+  "/pengeluaran/page": "app/pengeluaran/page.js",
+  "/transaksi/page": "app/transaksi/page.js"
+}
